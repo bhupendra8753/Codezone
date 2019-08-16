@@ -1,0 +1,14 @@
+p{
+    background: red;
+}
+h{
+    color: blue;
+}
+body{
+    background: #ff9933;
+}
+.mystyle{
+    font-size: 30px;
+    font-style: italic;
+    
+}
